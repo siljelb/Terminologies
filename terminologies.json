@@ -1,0 +1,359 @@
+[
+  {
+    "Name": "ATC",
+    "Description": "Anatomical Therapeutic Chemical Classification",
+    "URL": "https://www.who.int/tools/atc-ddd-toolkit/atc-classification",
+    "HL7_URI": "http://www.whocc.no/atc",
+    "OMOP": "ATC"
+  },
+  {
+    "Name": "ATC/DDD",
+    "Description": "Defined Daily Dose for each substance",
+    "URL": "https://atcddd.fhi.no/atc_ddd_index/",
+    "HL7_URI": "http://www.whocc.no/atc_ddd_index",
+    "OMOP": null
+  },
+  {
+    "Name": "BDPM",
+    "Description": "French drug database with product info",
+    "URL": "https://base-donnees-publique.medicaments.gouv.fr/",
+    "HL7_URI": null,
+    "OMOP": "BDPM"
+  },
+  {
+    "Name": "CMS",
+    "Description": "Codes for Medicare service locations",
+    "URL": "https://www.cms.gov/Medicare/Coding/place-of-service-codes/Place_of_Service_Code_Set",
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/place-of-service",
+    "OMOP": "CMS Place of Service"
+  },
+  {
+    "Name": "COST",
+    "Description": "National health expenditures data",
+    "URL": "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NHE-Fact-Sheet",
+    "HL7_URI": null,
+    "OMOP": "Cost"
+  },
+  {
+    "Name": "CDISC",
+    "Description": "Clinical Data Interchange Standards Consortium",
+    "URL": "https://www.cdisc.org/",
+    "HL7_URI": null,
+    "OMOP": "CDISC"
+  },
+  {
+    "Name": "CIEL",
+    "Description": "Open Concept Lab platform for health data",
+    "URL": "https://openconceptlab.org/orgs/CIEL/",
+    "HL7_URI": null,
+    "OMOP": "CIEL"
+  },
+  {
+    "Name": "CIVIC",
+    "Description": "Clinical Interpretation of Variants in Cancer",
+    "URL": "https://civicdb.org/",
+    "HL7_URI": null,
+    "OMOP": "CIViC"
+  },
+  {
+    "Name": "CO-CONNECT",
+    "Description": "UK-wide health data integration project",
+    "URL": "https://www.hdruk.ac.uk/projects/co-connect/",
+    "HL7_URI": null,
+    "OMOP": "CO-CONNECT"
+  },
+  {
+    "Name": "CPT4",
+    "Description": "Current Procedural Terminology, 4th edition",
+    "URL": "https://www.labce.com/spg3123315_hcpcs_and_cpt_4_coding.aspx",
+    "HL7_URI": "http://www.ama-assn.org/go/cpt",
+    "OMOP": "CPT4"
+  },
+  {
+    "Name": "CTD",
+    "Description": "Chemical Effects on Biological Systems Database",
+    "URL": "http://ctdbase.org/",
+    "HL7_URI": null,
+    "OMOP": "CTD"
+  },
+  {
+    "Name": "CLINVAR",
+    "Description": "Database for clinical significance of variants",
+    "URL": "https://www.ncbi.nlm.nih.gov/clinvar/",
+    "HL7_URI": "http://www.ncbi.nlm.nih.gov/clinvar",
+    "OMOP": "ClinVar"
+  },
+  {
+    "Name": "CVX",
+    "Description": "Vaccination codes for immunization records",
+    "URL": "https://www2a.cdc.gov/vaccines/iis/iisstandards/vaxdetail.asp",
+    "HL7_URI": "http://hl7.org/fhir/sid/cvx",
+    "OMOP": "CVX"
+  },
+  {
+    "Name": "DRG",
+    "Description": "Diagnosis-Related Group classification system",
+    "URL": "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/MS-DRG-Classifications-and-Software",
+    "HL7_URI": null,
+    "OMOP": "DRG"
+  },
+  {
+    "Name": "EORTC QLQ",
+    "Description": "European Organization for Research and Treatment of Cancer Quality of Life Questionnaire",
+    "URL": "https://qol.eortc.org/questionnaire/eortc-qlq-c30/",
+    "HL7_URI": null,
+    "OMOP": "EORTC QLQ"
+  },
+  {
+    "Name": "EPHMRA ATC",
+    "Description": "Classification system for pharmaceutical products",
+    "URL": "https://www.ephmra.org/anatomical-classification",
+    "HL7_URI": null,
+    "OMOP": "EphMRA ATC"
+  },
+  {
+    "Name": "GMDN",
+    "Description": "Global Medical Device Nomenclature",
+    "URL": "https://www.gmdnagency.org/",
+    "HL7_URI": "urn:iso:std:iso:11073:10101",
+    "OMOP": null
+  },
+  {
+    "Name": "HCPCS",
+    "Description": "Healthcare Common Procedure Coding System",
+    "URL": "https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo",
+    "HL7_URI": "http://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+    "OMOP": "HCPCS"
+  },
+  {
+    "Name": "HEMONC",
+    "Description": "Hematology and Oncology Terminology Database",
+    "URL": "https://hemonc.org/",
+    "HL7_URI": null,
+    "OMOP": "HemOnc"
+  },
+  {
+    "Name": "HGNC",
+    "Description": "HUGO Gene Nomenclature Committee",
+    "URL": "https://www.genenames.org/",
+    "HL7_URI": "http://www.genenames.org",
+    "OMOP": null
+  },
+  {
+    "Name": "ICD-10",
+    "Description": "International Classification of Diseases 10th Edition",
+    "URL": "https://www.who.int/classifications/icd/icdonlineversions/en/",
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-10",
+    "OMOP": "ICD10"
+  },
+  {
+    "Name": "ICD-10 CM",
+    "Description": "Clinical Modification for ICD-10 coding",
+    "URL": "https://www.cdc.gov/nchs/icd/icd-10-cm/index.html",
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-10-cm",
+    "OMOP": "ICD10CM"
+  },
+  {
+    "Name": "ICD-10 GM",
+    "Description": "ICD-10 classification in Germany",
+    "URL": "https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/ICD-10-GM/_node.html",
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/dmdICD10",
+    "OMOP": "ICD10GM"
+  },
+  {
+    "Name": "ICD-10 PCS",
+    "Description": "ICD-10 Procedure Coding System for inpatient care",
+    "URL": "https://www.cms.gov/medicare/coding-billing/icd-10-codes",
+    "HL7_URI": null,
+    "OMOP": "ICD10PCS"
+  },
+  {
+    "Name": "ICD-9",
+    "Description": "International Classification of Diseases 9th Edition",
+    "URL": "https://www.who.int/classifications/icd/icdonlineversions/en/",
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-9",
+    "OMOP": null
+  },
+  {
+    "Name": "ICD-9 CM",
+    "Description": "Clinical Modification for ICD-9 coding",
+    "URL": "https://archive.cdc.gov/#/details?url=https://www.cdc.gov/nchs/icd/icd9cm.htm",
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-9-cm",
+    "OMOP": "ICD9CM"
+  },
+  {
+    "Name": "ICD-9 PROC",
+    "Description": "ICD-9 Procedure Codes for medical procedures",
+    "URL": null,
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-9-cm",
+    "OMOP": "ICD9Proc"
+  },
+  {
+    "Name": "ICD-O-1",
+    "Description": "International Classification of Diseases for Oncology 1st Edition",
+    "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-diseases-for-oncology",
+    "HL7_URI": null,
+    "OMOP": null
+  },
+  {
+    "Name": "ICD-O-2",
+    "Description": "International Classification of Diseases for Oncology 2nd Edition",
+    "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-diseases-for-oncology",
+    "HL7_URI": null,
+    "OMOP": null
+  },
+  {
+    "Name": "ICD-O-3",
+    "Description": "International Classification of Diseases for Oncology 3rd Edition",
+    "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-diseases-for-oncology",
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-o-3",
+    "OMOP": "ICDO3"
+  },
+  {
+    "Name": "ICD-11",
+    "Description": "International Classification of Diseases 11th Edition",
+    "URL": "https://icd.who.int/en",
+    "HL7_URI": "http://hl7.org/fhir/sid/icd-11",
+    "OMOP": null
+  },
+  {
+    "Name": "JAX",
+    "Description": "Jackson Laboratory genetic resources",
+    "URL": "https://www.jax.org/jax-mice-and-services/customer-support/technical-support/genetics-and-nomenclature",
+    "HL7_URI": null,
+    "OMOP": "JAX"
+  },
+  {
+    "Name": "JMDC",
+    "Description": "Japanese Medical Data Center database",
+    "URL": "https://www.jmdc.co.jp/en/jmdc-claims-database/",
+    "HL7_URI": null,
+    "OMOP": "JMDC"
+  },
+  {
+    "Name": "KNHIS",
+    "Description": "National Health Insurance Service (South Korea)",
+    "URL": "https://www.nhis.or.kr",
+    "HL7_URI": null,
+    "OMOP": "KNHIS"
+  },
+  {
+    "Name": "MESH",
+    "Description": "Medical Subject Headings for indexing",
+    "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
+    "HL7_URI": "http://www.nlm.nih.gov/mesh",
+    "OMOP": "MeSH"
+  },
+  {
+    "Name": "MDC",
+    "Description": "Medical Device Communications (MDC)",
+    "URL": "https://www.iso.org/home.html",
+    "HL7_URI": "urn:iso:std:iso:11073:10101",
+    "OMOP": "MDC"
+  },
+  {
+    "Name": "MED-RT",
+    "Description": "Medication Reference Terminology (MED-RT)",
+    "URL": "https://www.nlm.nih.gov/",
+    "HL7_URI": "http://va.gov/terminology/medrt",
+    "OMOP": null
+  },
+  {
+    "Name": "NAACCR",
+    "Description": "North American Association of Central Cancer Registries",
+    "URL": "https://www.naaccr.org/",
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/naaccrCodes",
+    "OMOP": "NAACCR"
+  },
+  {
+    "Name": "NDC",
+    "Description": "National Drug Code (NDC)",
+    "URL": "https://www.fda.gov/",
+    "HL7_URI": "http://hl7.org/fhir/sid/ndc",
+    "OMOP": "NDC"
+  },
+  {
+    "Name": "NDF-RT",
+    "Description": "National Drug File Reference Terminology (NDF-RT)",
+    "URL": "https://evs.nci.nih.gov/ftp1/NDF-RT/",
+    "HL7_URI": "http://hl7.org/fhir/ndfrt",
+    "OMOP": "NDFRT"
+  },
+  {
+    "Name": "OPS",
+    "Description": "Operationen- und Prozedurenschl\u00fcssel for medical procedures",
+    "URL": "https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/OPS-ICHI/OPS/_node.html",
+    "HL7_URI": "http://fhir.de/CodeSystem/bfarm/ops",
+    "OMOP": "OPS"
+  },
+  {
+    "Name": "RADLEX",
+    "Description": "Radiology lexicon for radiological terminology",
+    "URL": "https://www.rsna.org/research/tools-and-resources/radlex",
+    "HL7_URI": "http://radlex.org",
+    "OMOP": null
+  },
+  {
+    "Name": "SNOMED-CT",
+    "Description": "Systematized Nomenclature of Medicine",
+    "URL": "https://www.snomed.org/",
+    "HL7_URI": "http://snomed.info/sct",
+    "OMOP": "SNOMED"
+  },
+  {
+    "Name": "SNOMED VETERINARY",
+    "Description": "SNOMED terminology for veterinary sciences",
+    "URL": "https://www.snomed.org/",
+    "HL7_URI": "http://snomed.info/vet",
+    "OMOP": "SNOMED Veterinary"
+  },
+  {
+    "Name": "S2",
+    "Description": "Computable knowledge resources for Health IT",
+    "URL": "https://s2health.org/",
+    "HL7_URI": null,
+    "OMOP": null
+  },
+  {
+    "Name": "UCUM",
+    "Description": "Unified Code for Units of Measure",
+    "URL": "https://ucum.nlm.nih.gov/",
+    "HL7_URI": "http://unitsofmeasure.org",
+    "OMOP": "UCUM"
+  },
+  {
+    "Name": "ORPHANET",
+    "Description": "Rare disease information database",
+    "URL": "https://www.orpha.net/",
+    "HL7_URI": "http://www.orpha.net",
+    "OMOP": null
+  },
+  {
+    "Name": "UNII",
+    "Description": "Unique Ingredient Identifier for substances",
+    "URL": "https://precision.fda.gov/uniisearch",
+    "HL7_URI": "http://fdasis.nlm.nih.gov",
+    "OMOP": null
+  },
+  {
+    "Name": "OPENEHR",
+    "Description": "Open standard for electronic health record (EHR) systems",
+    "URL": "https://openehr.org/",
+    "HL7_URI": null,
+    "OMOP": null
+  },
+  {
+    "Name": "HL7",
+    "Description": "Health Level Seven codesystems",
+    "URL": "https://www.hl7.org/",
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/",
+    "OMOP": null
+  },
+  {
+    "Name": "PCLOCD",
+    "Description": "pan-Canadian LOINC Observation Code Database (pCLOCD)",
+    "URL": "https://www.infoway-inforoute.ca/en/",
+    "HL7_URI": "https://fhir.infoway-inforoute.ca/CodeSystem/pCLOCD",
+    "OMOP": null
+  }
+]
