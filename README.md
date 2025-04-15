@@ -6,7 +6,7 @@ The list is to be used to standardized terminologies in openEHR.
 
 If you encounter a terminology that is missing, please make a PULL-REQUEST. 
 
-Spaces are not allowed, - is to be used instead. 
+Spaces are not allowed in the Namespace, - is to be used instead. 
 
 
 Current list:
