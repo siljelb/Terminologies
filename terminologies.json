@@ -423,7 +423,7 @@
     "Description": "Health Level Seven version 3",
     "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/v3-EmployeeJobClass, to incorporate that add 0211 to the Namespace e.g. HL7V3::EMPLOYEEJOBCLASS",
     "URL": "https://www.hl7.org/",
-    "HL7_URI": "http://terminology.hl7.org/CodeSystem/",
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/v3",
     "OMOP": null
   },
   {
