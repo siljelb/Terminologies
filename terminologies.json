@@ -5,7 +5,8 @@
     "Description": "Anatomical Therapeutic Chemical Classification",
     "URL": "https://www.who.int/tools/atc-ddd-toolkit/atc-classification",
     "HL7_URI": "http://www.whocc.no/atc",
-    "OMOP": "ATC"
+    "OMOP": "ATC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ATC/DDD",
@@ -13,7 +14,8 @@
     "Description": "Defined Daily Dose for each substance",
     "URL": "https://atcddd.fhi.no/atc_ddd_index/",
     "HL7_URI": "http://www.whocc.no/atc_ddd_index",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "BDPM",
@@ -21,7 +23,8 @@
     "Description": "French drug database with product info",
     "URL": "https://base-donnees-publique.medicaments.gouv.fr/",
     "HL7_URI": null,
-    "OMOP": "BDPM"
+    "OMOP": "BDPM",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CMS",
@@ -29,7 +32,8 @@
     "Description": "Codes for Medicare service locations",
     "URL": "https://www.cms.gov/Medicare/Coding/place-of-service-codes/Place_of_Service_Code_Set",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/place-of-service",
-    "OMOP": "CMS Place of Service"
+    "OMOP": "CMS Place of Service",
+    "CodeSystems": ""
   },
   {
     "Namespace": "COST",
@@ -37,7 +41,8 @@
     "Description": "National health expenditures data",
     "URL": "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NHE-Fact-Sheet",
     "HL7_URI": null,
-    "OMOP": "Cost"
+    "OMOP": "Cost",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CDISC",
@@ -45,7 +50,8 @@
     "Description": "Clinical Data Interchange Standards Consortium",
     "URL": "https://www.cdisc.org/",
     "HL7_URI": null,
-    "OMOP": "CDISC"
+    "OMOP": "CDISC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CIEL",
@@ -53,7 +59,8 @@
     "Description": "Open Concept Lab platform for health data",
     "URL": "https://openconceptlab.org/orgs/CIEL/",
     "HL7_URI": null,
-    "OMOP": "CIEL"
+    "OMOP": "CIEL",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CIVIC",
@@ -61,7 +68,8 @@
     "Description": "Clinical Interpretation of Variants in Cancer",
     "URL": "https://civicdb.org/",
     "HL7_URI": null,
-    "OMOP": "CIViC"
+    "OMOP": "CIViC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CO-CONNECT",
@@ -69,7 +77,8 @@
     "Description": "UK-wide health data integration project",
     "URL": "https://www.hdruk.ac.uk/projects/co-connect/",
     "HL7_URI": null,
-    "OMOP": "CO-CONNECT"
+    "OMOP": "CO-CONNECT",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CPT4",
@@ -77,7 +86,8 @@
     "Description": "Current Procedural Terminology, 4th edition",
     "URL": "https://www.ama-assn.org/topics/cpt-codes",
     "HL7_URI": "http://www.ama-assn.org/go/cpt",
-    "OMOP": "CPT4"
+    "OMOP": "CPT4",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CTD",
@@ -85,7 +95,8 @@
     "Description": "Comparative Toxicogenomic Database (NCSU)",
     "URL": "http://ctdbase.org/",
     "HL7_URI": null,
-    "OMOP": "CTD"
+    "OMOP": "CTD",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CLINVAR",
@@ -93,7 +104,8 @@
     "Description": "Database for clinical significance of variants",
     "URL": "https://www.ncbi.nlm.nih.gov/clinvar/",
     "HL7_URI": "http://www.ncbi.nlm.nih.gov/clinvar",
-    "OMOP": "ClinVar"
+    "OMOP": "ClinVar",
+    "CodeSystems": ""
   },
   {
     "Namespace": "CVX",
@@ -101,7 +113,8 @@
     "Description": "CDC Vaccine Administered CVX (NCIRD)",
     "URL": "https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=cvx",
     "HL7_URI": "http://hl7.org/fhir/sid/cvx",
-    "OMOP": "CVX"
+    "OMOP": "CVX",
+    "CodeSystems": ""
   },
   {
     "Namespace": "DRG",
@@ -109,7 +122,8 @@
     "Description": "Diagnosis-Related Group classification system",
     "URL": "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/MS-DRG-Classifications-and-Software",
     "HL7_URI": null,
-    "OMOP": "DRG"
+    "OMOP": "DRG",
+    "CodeSystems": ""
   },
   {
     "Namespace": "EORTC-QLQ",
@@ -117,7 +131,8 @@
     "Description": "European Organization for Research and Treatment of Cancer Quality of Life Questionnaire",
     "URL": "https://itemlibrary.eortc.org/",
     "HL7_URI": null,
-    "OMOP": "EORTC QLQ"
+    "OMOP": "EORTC QLQ",
+    "CodeSystems": ""
   },
   {
     "Namespace": "EPHMRA-ATC",
@@ -125,7 +140,8 @@
     "Description": "Anatomical Classification of Pharmaceutical Products (EphMRA)",
     "URL": "https://www.ephmra.org/anatomical-classification",
     "HL7_URI": null,
-    "OMOP": "EphMRA ATC"
+    "OMOP": "EphMRA ATC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "GMDN",
@@ -133,7 +149,8 @@
     "Description": "Global Medical Device Nomenclature",
     "URL": "https://www.gmdnagency.org/",
     "HL7_URI": "urn:iso:std:iso:11073:10101",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "HCPCS",
@@ -141,7 +158,8 @@
     "Description": "Healthcare Common Procedure Coding System (CMS)",
     "URL": "https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo",
     "HL7_URI": "http://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
-    "OMOP": "HCPCS"
+    "OMOP": "HCPCS",
+    "CodeSystems": ""
   },
   {
     "Namespace": "HEMONC",
@@ -149,7 +167,8 @@
     "Description": "Hematology and Oncology Terminology Database",
     "URL": "https://hemonc.org/wiki/Main_Page",
     "HL7_URI": null,
-    "OMOP": "HemOnc"
+    "OMOP": "HemOnc",
+    "CodeSystems": ""
   },
   {
     "Namespace": "HGNC",
@@ -157,7 +176,8 @@
     "Description": "HUGO Gene Nomenclature Committee",
     "URL": "https://www.geneNamespaces.org/",
     "HL7_URI": "http://www.geneNamespaces.org",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "HPO",
@@ -165,7 +185,8 @@
     "Description": "Human Phenotype Ontology (HPO)",
     "URL": "https://hpo.jax.org/about/",
     "HL7_URI": "http://terminology.hl7.org/NamingSystem/HPO",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-10",
@@ -173,7 +194,8 @@
     "Description": "International Classification of Diseases 10th Edition",
     "URL": "https://www.who.int/classifications/icd/icdonlineversions/en/",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-10",
-    "OMOP": "ICD10"
+    "OMOP": "ICD10",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-10-CM",
@@ -181,7 +203,8 @@
     "Description": "International Classification of Diseases, Tenth Revision, Clinical Modification (NCHS)",
     "URL": "https://www.cdc.gov/nchs/icd/icd-10-cm/",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-10-cm",
-    "OMOP": "ICD10CM"
+    "OMOP": "ICD10CM",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-10-GM",
@@ -189,7 +212,8 @@
     "Description": "ICD-10 classification in Germany",
     "URL": "https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/ICD/ICD-10-GM/_node.html",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/dmdICD10",
-    "OMOP": "ICD10GM"
+    "OMOP": "ICD10GM",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-10-PCS",
@@ -197,7 +221,8 @@
     "Description": "ICD-10 Procedure Coding System (CMS)",
     "URL": "https://www.cms.gov/medicare/coding-billing/icd-10-codes",
     "HL7_URI": null,
-    "OMOP": "ICD10PCS"
+    "OMOP": "ICD10PCS",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-9",
@@ -205,7 +230,8 @@
     "Description": "International Classification of Diseases 9th Edition",
     "URL": "https://www.who.int/classifications/icd/icdonlineversions/en/",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-9",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-9-CM",
@@ -213,7 +239,8 @@
     "Description": "International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 1 and 2 (NCHS)",
     "URL": "https://archive.cdc.gov/#/details?url=https://www.cdc.gov/nchs/icd/icd9cm.htm",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-9-cm",
-    "OMOP": "ICD9CM"
+    "OMOP": "ICD9CM",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-9-PROC",
@@ -221,7 +248,8 @@
     "Description": "International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 3 (NCHS)",
     "URL": "https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-9-cm",
-    "OMOP": "ICD9Proc"
+    "OMOP": "ICD9Proc",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-O-1",
@@ -229,7 +257,8 @@
     "Description": "International Classification of Diseases for Oncology 1st Edition",
     "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-diseases-for-oncology",
     "HL7_URI": null,
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-O-2",
@@ -237,7 +266,8 @@
     "Description": "International Classification of Diseases for Oncology 2nd Edition",
     "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-diseases-for-oncology",
     "HL7_URI": null,
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-O-3",
@@ -245,7 +275,8 @@
     "Description": "International Classification of Diseases for Oncology 3rd Edition",
     "URL": "https://www.who.int/standards/classifications/other-classifications/international-classification-of-diseases-for-oncology",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-o-3",
-    "OMOP": "ICDO3"
+    "OMOP": "ICDO3",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ICD-11",
@@ -253,7 +284,8 @@
     "Description": "International Classification of Diseases 11th Edition",
     "URL": "https://icd.who.int/en",
     "HL7_URI": "http://hl7.org/fhir/sid/icd-11",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "JAX",
@@ -261,7 +293,8 @@
     "Description": "Jackson Laboratory genetic resources",
     "URL": "https://www.jax.org/jax-mice-and-services/customer-support/technical-support/genetics-and-nomenclature",
     "HL7_URI": null,
-    "OMOP": "JAX"
+    "OMOP": "JAX",
+    "CodeSystems": ""
   },
   {
     "Namespace": "JMDC",
@@ -269,7 +302,8 @@
     "Description": "Japan Medical Data Center Drug Code (JMDC)",
     "URL": "https://www.jmdc.co.jp/en/jmdc-claims-database/",
     "HL7_URI": null,
-    "OMOP": "JMDC"
+    "OMOP": "JMDC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "KNHIS",
@@ -277,7 +311,8 @@
     "Description": "National Health Insurance Service (South Korea)",
     "URL": "https://www.nhis.or.kr",
     "HL7_URI": null,
-    "OMOP": "KNHIS"
+    "OMOP": "KNHIS",
+    "CodeSystems": ""
   },
   {
     "Namespace": "MESH",
@@ -285,15 +320,17 @@
     "Description": "Medical Subject Headings (NLM)",
     "URL": "https://www.nlm.nih.gov/mesh/meshhome.html",
     "HL7_URI": "http://www.nlm.nih.gov/mesh",
-    "OMOP": "MeSH"
+    "OMOP": "MeSH",
+    "CodeSystems": ""
   },
   {
     "Namespace": "MDC",
-    "Issuer": " Centers for Medicare & Medicaid Services",
+    "Issuer": "Centers for Medicare & Medicaid Services",
     "Description": "Major Diagnostic Categories (CMS)",
     "URL": "https://www.cms.gov/medicare/payment/prospective-payment-systems/acute-inpatient-pps/acute-inpatient-files-download",
     "HL7_URI": "urn:iso:std:iso:11073:10101",
-    "OMOP": "MDC"
+    "OMOP": "MDC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "MED-RT",
@@ -301,7 +338,17 @@
     "Description": "Medication Reference Terminology (MED-RT)",
     "URL": "https://www.nlm.nih.gov/",
     "HL7_URI": "http://va.gov/terminology/medrt",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
+  },
+  {
+    "Namespace": "MEDDRA",
+    "Issuer": "International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH)",
+    "Description": "Medical Dictionary for Regulatory Activities (MEDDRA)",
+    "URL": "https://www.meddra.org",
+    "HL7_URI": "https://www.meddra.org",
+    "OMOP": "MEDDRA",
+    "CodeSystems": ""
   },
   {
     "Namespace": "NAACCR",
@@ -309,7 +356,8 @@
     "Description": "North American Association of Central Cancer Registries Data Standards & Data Dictionary Volume II (NAACCR)",
     "URL": "http://datadictionary.naaccr.org/?c=10",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/naaccrCodes",
-    "OMOP": "NAACCR"
+    "OMOP": "NAACCR",
+    "CodeSystems": ""
   },
   {
     "Namespace": "NDC",
@@ -317,23 +365,26 @@
     "Description": "National Drug Code (FDA and manufacturers)",
     "URL": "https://www.fda.gov/drugs/development-approval-process-drugs/national-drug-code-database-background-information",
     "HL7_URI": "http://hl7.org/fhir/sid/ndc",
-    "OMOP": "NDC"
+    "OMOP": "NDC",
+    "CodeSystems": ""
   },
   {
     "Namespace": "NDF-RT",
-    "Issuer": "National Cancer Institute (NCI) Enterprise Vocabulary Services (EVS) ",
+    "Issuer": "National Cancer Institute (NCI) Enterprise Vocabulary Services (EVS)",
     "Description": "National Drug File - Reference Terminology",
     "URL": "https://evs.nci.nih.gov/ftp1/NDF-RT/",
     "HL7_URI": "http://hl7.org/fhir/ndfrt",
-    "OMOP": "NDFRT"
+    "OMOP": "NDFRT",
+    "CodeSystems": ""
   },
   {
     "Namespace": "OPS",
     "Issuer": "German Institute of Medical Documentation and Information",
-    "Description": "Operationen- und Prozedurenschl\u00fcssel for medical procedures",
+    "Description": "Operationen- und Prozedurenschlüssel for medical procedures",
     "URL": "https://www.bfarm.de/DE/Kodiersysteme/Klassifikationen/OPS-ICHI/OPS/_node.html",
     "HL7_URI": "http://fhir.de/CodeSystem/bfarm/ops",
-    "OMOP": "OPS"
+    "OMOP": "OPS",
+    "CodeSystems": ""
   },
   {
     "Namespace": "RADLEX",
@@ -341,7 +392,8 @@
     "Description": "Radiology lexicon for radiological terminology",
     "URL": "https://www.rsna.org/research/tools-and-resources/radlex",
     "HL7_URI": "http://radlex.org",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "SNOMED-CT",
@@ -349,7 +401,8 @@
     "Description": "Systematized Nomenclature of Medicine",
     "URL": "https://www.snomed.org/",
     "HL7_URI": "http://snomed.info/sct",
-    "OMOP": "SNOMED"
+    "OMOP": "SNOMED",
+    "CodeSystems": ""
   },
   {
     "Namespace": "SNOMED-VETERINARY",
@@ -357,7 +410,8 @@
     "Description": "SNOMED terminology for veterinary sciences",
     "URL": "https://www.snomed.org/",
     "HL7_URI": "http://snomed.info/vet",
-    "OMOP": "SNOMED Veterinary"
+    "OMOP": "SNOMED Veterinary",
+    "CodeSystems": ""
   },
   {
     "Namespace": "S2",
@@ -365,7 +419,8 @@
     "Description": "Computable knowledge resources for Health IT",
     "URL": "https://s2health.org/",
     "HL7_URI": null,
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "UCUM",
@@ -373,7 +428,8 @@
     "Description": "Unified Code for Units of Measure",
     "URL": "https://ucum.nlm.nih.gov/",
     "HL7_URI": "http://unitsofmeasure.org",
-    "OMOP": "UCUM"
+    "OMOP": "UCUM",
+    "CodeSystems": ""
   },
   {
     "Namespace": "ORDO",
@@ -381,7 +437,8 @@
     "Description": "The Orphanet Rare Disease ontology (ORDO)",
     "URL": "https://www.orpha.net/",
     "HL7_URI": "http://www.orpha.net",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "UNII",
@@ -389,7 +446,8 @@
     "Description": "Unique Ingredient Identifier (UNII)",
     "URL": "https://precision.fda.gov/uniisearch",
     "HL7_URI": "http://fdasis.nlm.nih.gov",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "OPENEHR",
@@ -397,52 +455,53 @@
     "Description": "Open standard for electronic health record (EHR) systems",
     "URL": "https://openehr.org/",
     "HL7_URI": null,
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "HL7",
     "Issuer": "Health Level Seven International",
     "Description": "Health Level Seven Codesystems",
-    "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/basic-resource-type, to incorporate that add 0211 to the Namespace e.g. HL7::BASIC-RESOURCE-TYPE",
     "URL": "https://www.hl7.org/",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/basic-resource-type, to incorporate that add 0211 to the Namespace e.g. HL7::BASIC-RESOURCE-TYPE"
   },
   {
     "Namespace": "HL7V2",
     "Issuer": "Health Level Seven International",
     "Description": "Health Level Seven version 2",
-    "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/v2-0211, to incorporate that add 0211 to the Namespace e.g. HL7V2::0211",
     "URL": "https://www.hl7.org/",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/v2",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/v2-0211, to incorporate that add 0211 to the Namespace e.g. HL7V2::0211"
   },
   {
     "Namespace": "HL7V3",
     "Issuer": "Health Level Seven International",
     "Description": "Health Level Seven version 3",
-    "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/v3-EmployeeJobClass, to incorporate that add 0211 to the Namespace e.g. HL7V3::EMPLOYEEJOBCLASS",
     "URL": "https://www.hl7.org/",
-    "HL7_URI": "http://terminology.hl7.org/CodeSystem/v3",
-    "OMOP": null
+    "HL7_URI": "http://terminology.hl7.org/CodeSystem/",
+    "OMOP": null,
+    "CodeSystems": "Internally organized in CodeSystems e.g. http://terminology.hl7.org/CodeSystem/v3-EmployeeJobClass, to incorporate that add 0211 to the Namespace e.g. HL7V3::EMPLOYEEJOBCLASS"
   },
   {
     "Namespace": "FHIR",
     "Issuer": "Health Level Seven International",
     "Description": "HL7 Fast Healthcare Interoperability Resources",
     "URL": "https://www.hl7.org/",
-    "CodeSystems": "Internally organized in CodeSystems e.g. http://hl7.org/fhir/resource-status, to incorporate that add 0211 to the Namespace e.g. FHIR::RESOURCE-STATUS",
     "HL7_URI": "http://hl7.org/fhir/",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": "Internally organized in CodeSystems e.g. http://hl7.org/fhir/resource-status, to incorporate that add 0211 to the Namespace e.g. FHIR::RESOURCE-STATUS"
   },
-
   {
     "Namespace": "PCLOCD",
     "Issuer": "Canada Health Infoway",
     "Description": "pan-Canadian LOINC Observation Code Database (pCLOCD)",
     "URL": "https://www.infoway-inforoute.ca/en/",
     "HL7_URI": "https://fhir.infoway-inforoute.ca/CodeSystem/pCLOCD",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "IANA-CHARACTER-SETS",
@@ -450,7 +509,8 @@
     "Description": "IANA character sets",
     "URL": "http://iana.org/code_sets/character-sets",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/v3-Charset",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "IANA-MEDIA-TYPES",
@@ -458,7 +518,8 @@
     "Description": "IANA media types",
     "URL": "http://iana.org/code_sets/media-types",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/v3-mediaType",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ISO-3166-1-ALPHA2",
@@ -466,7 +527,8 @@
     "Description": "2-character ISO country codes",
     "URL": "http://iso.org/code_sets/iso_3166-1-alpha2",
     "HL7_URI": "http://hl7.org/fhir/ValueSet/iso3166-1-2",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ISO-3166-1-ALPHA3",
@@ -474,7 +536,8 @@
     "Description": "3-character ISO country codes",
     "URL": "http://iso.org/code_sets/iso_3166-1-alpha3",
     "HL7_URI": "http://hl7.org/fhir/ValueSet/iso3166-1-3",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ISO-639-1",
@@ -482,7 +545,8 @@
     "Description": "2-character ISO language codes",
     "URL": "http://iso.org/code_sets/iso_639-1",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/iso639-1",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "ISO-639-3",
@@ -490,7 +554,8 @@
     "Description": "3-character ISO language codes",
     "URL": "http://iso.org/code_sets/iso_639-3",
     "HL7_URI": "http://terminology.hl7.org/CodeSystem/iso639-3",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   },
   {
     "Namespace": "OMOP",
@@ -498,6 +563,7 @@
     "Description": "OHDSI Standardized Vocabularies",
     "URL": "https://ohdsi.org/",
     "HL7_URI": "https://terminology.hl7.org/CodeSystem-OMOP.html",
-    "OMOP": null
+    "OMOP": null,
+    "CodeSystems": ""
   }
 ]
