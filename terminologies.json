@@ -315,6 +315,15 @@
     "CodeSystems": ""
   },
   {
+    "Namespace": "LOINC",
+    "Issuer": "Regenstrief Institute, Inc.",
+    "Description": "Logical Observation Identifiers Names and Codes (LOINC)",
+    "URL": "https://loinc.org/",
+    "HL7_URI": "http://loinc.org",
+    "OMOP": "LOINC",
+    "CodeSystems": ""
+  },
+  {
     "Namespace": "MESH",
     "Issuer": "National Library of Medicine",
     "Description": "Medical Subject Headings (NLM)",
