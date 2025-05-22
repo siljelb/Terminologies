@@ -37,6 +37,9 @@
 | MESH           | Medical Subject Headings for indexing                                      | [Link](https://www.nlm.nih.gov/mesh/meshhome.html)                                     | http://www.nlm.nih.gov/mesh                                            | MeSH            |
 | MDC            | Medical Device Communications (MDC)                                        | [Link](https://www.iso.org/home.html)                                                  | urn:iso:std:iso:11073:10101                                            | MDC             |
 | MED-RT         | Medication Reference Terminology (MED-RT)                                  | [Link](https://www.nlm.nih.gov/)                                                       | http://va.gov/terminology/medrt                                         | null            |
+
+| MEDDRA         | Medical Dictionary for Regulatory Activities                               | [Link](https://www.meddra.org/)                                                       | https://www.meddra.org                                       | MEDDRA            |
+
 | NAACCR         | North American Association of Central Cancer Registries                    | [Link](https://www.naaccr.org/)                                                        | http://terminology.hl7.org/CodeSystem/naaccrCodes                      | NAACCR          |
 | NDC            | National Drug Code (NDC)                                                   | [Link](https://www.fda.gov/)                                                           | http://hl7.org/fhir/sid/ndc                                            | NDC             |
 | NDF-RT         | National Drug File Reference Terminology (NDF-RT)                          | [Link](https://evs.nci.nih.gov/ftp1/NDF-RT/)                                           | http://hl7.org/fhir/ndfrt                                              | NDFRT           |
